@@ -1,4 +1,4 @@
-public class program5sqcu {
+public class program6sqcu {
     public static void main(String[] args) {
 
         System.out.print("square" + "\t");
