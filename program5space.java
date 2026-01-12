@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class program4space {
+public class program5space {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter 5 digit number");
